@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/nas/lrz/home/ge85zic/VHDL_LAB/xorop/tb_idea_isim_beh.exe" -prj "/nas/lrz/home/ge85zic/VHDL_LAB/xorop/tb_idea_beh.prj" "work.tb_idea" 

@@ -1,0 +1,5 @@
+set -tmpdir "/nas/lrz/home/ge85zic/VHDL_LAB/xorop/xst/projnav.tmp"
+set -xsthdpdir "/nas/lrz/home/ge85zic/VHDL_LAB/xorop/xst"
+elaborate
+-ifn round.prj
+-ifmt mixed

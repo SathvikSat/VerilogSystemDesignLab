@@ -1,0 +1,12 @@
+EN idea NULL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/idea.vhd sub00/vhpl08 1684934304
+AR addop behavioral /nas/lrz/home/ge85zic/VHDL_LAB/xorop/addop.vhd sub00/vhpl03 1684934297
+EN mulop NULL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/mulop.vhd sub00/vhpl04 1684934294
+EN trafo NULL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/trafo.vhd sub00/vhpl09 1684934302
+AR round behavioral /nas/lrz/home/ge85zic/VHDL_LAB/xorop/round.vhd sub00/vhpl07 1684934301
+EN addop NULL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/addop.vhd sub00/vhpl02 1684934296
+AR trafo behavioral /nas/lrz/home/ge85zic/VHDL_LAB/xorop/trafo.vhd sub00/vhpl10 1684934303
+EN round NULL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/round.vhd sub00/vhpl06 1684934300
+EN xorop NULL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/xorop.vhd sub00/vhpl00 1684934298
+AR mulop behavioral /nas/lrz/home/ge85zic/VHDL_LAB/xorop/mulop.vhd sub00/vhpl05 1684934295
+AR idea structural /nas/lrz/home/ge85zic/VHDL_LAB/xorop/idea.vhd sub00/vhpl11 1684934305
+AR xorop behavioral /nas/lrz/home/ge85zic/VHDL_LAB/xorop/xorop.vhd sub00/vhpl01 1684934299

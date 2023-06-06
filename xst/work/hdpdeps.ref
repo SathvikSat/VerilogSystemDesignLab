@@ -1,0 +1,35 @@
+V3 23
+FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/addop.vhd 2023/05/12.11:56:54 P.20131013
+EN work/addop 1684934296 FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/addop.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/addop/Behavioral 1684934297 \
+      FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/addop.vhd EN work/addop 1684934296
+FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/idea.vhd 2023/05/24.15:08:48 P.20131013
+EN work/idea 1684934304 FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/idea.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/idea/Structural 1684934305 \
+      FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/idea.vhd EN work/idea 1684934304 \
+      CP round CP trafo
+FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/mulop.vhd 2023/05/23.15:29:07 P.20131013
+EN work/mulop 1684934294 FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/mulop.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/mulop/Behavioral 1684934295 \
+      FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/mulop.vhd EN work/mulop 1684934294
+FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/round.vhd 2023/05/23.16:36:05 P.20131013
+EN work/round 1684934300 FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/round.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/round/Behavioral 1684934301 \
+      FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/round.vhd EN work/round 1684934300 \
+      CP mulop CP addop CP xorop
+FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/trafo.vhd 2023/05/23.16:48:40 P.20131013
+EN work/trafo 1684934302 FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/trafo.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/trafo/Behavioral 1684934303 \
+      FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/trafo.vhd EN work/trafo 1684934302 \
+      CP mulop CP addop
+FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/xorop.vhd 2023/05/12.10:41:17 P.20131013
+EN work/xorop 1684934298 FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/xorop.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/xorop/Behavioral 1684934299 \
+      FL /nas/lrz/home/ge85zic/VHDL_LAB/xorop/xorop.vhd EN work/xorop 1684934298
