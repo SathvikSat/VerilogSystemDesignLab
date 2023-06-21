@@ -1,0 +1,29 @@
+Command line:
+   tb_reg_16bit_edge_trigger_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  48397
+
+Thu Jun 15 13:42:03 2023
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 184.033 Meg
+
+ Total Signals          : 8
+ Total Nets             : 34
+ Total Signal Drivers   : 4
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 395
+Total Line Count : 17
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 259.535 Meg
+
+Thu Jun 15 13:44:11 2023
+

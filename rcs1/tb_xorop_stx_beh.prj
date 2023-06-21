@@ -1,0 +1,2 @@
+vhdl isim_temp "../03765796_direct/xorop.vhd"
+vhdl isim_temp "../03765796_direct/tb_xorop.vhd"

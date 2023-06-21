@@ -1,0 +1,2 @@
+vhdl isim_temp "reg_16bit_edge_trigger.vhd"
+vhdl isim_temp "tb_reg_16bit_edge_trigger.vhd"

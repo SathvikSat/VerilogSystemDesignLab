@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/ash-ketchum/Downloads/submission_template/submit/rcs1/impact.xsl
+OUTFILE=/home/ash-ketchum/Downloads/submission_template/submit/rcs1/impact.xsl
+FAMILY=None
+PART=None
+WORKINGDIR=/home/ash-ketchum/Downloads/submission_template/submit/rcs1
+LICENSE=iMPACT
+USER_INFO=iMPACT

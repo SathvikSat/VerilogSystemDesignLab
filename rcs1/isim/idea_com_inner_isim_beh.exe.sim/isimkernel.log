@@ -1,0 +1,29 @@
+Command line:
+   idea_com_inner_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56553
+
+Wed Jun 21 10:28:52 2023
+
+
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 186.474 Meg
+
+ Total Signals          : 324
+ Total Nets             : 1889
+ Total Signal Drivers   : 127
+ Total Blocks           : 44
+ Total Primitive Blocks : 39
+ Total Processes        : 84
+ Total Traceable Variables  : 12
+ Total Scalar Nets and Variables : 2447
+Total Line Count : 397
+
+ Total Simulation Time: 0.07 sec
+
+ Current Memory Usage: 261.976 Meg
+
+Wed Jun 21 10:29:01 2023
+
